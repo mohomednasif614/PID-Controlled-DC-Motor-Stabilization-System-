@@ -1,4 +1,4 @@
-# PID-Controlled-DC-Motor-Stabilization-System-
+# PID-Controlled-DC-Motor-Stabilization-System
 
 This repository contains the hardware design and software implementation for a closed-loop motor speed control system. Developed as a group assignment for the Control System Engineering (IE3034) module at SLIIT, the project demonstrates how PID control theory is applied to stabilize a physical DC motor under varying loads and setpoints.
 
