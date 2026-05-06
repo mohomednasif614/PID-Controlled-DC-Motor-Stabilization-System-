@@ -13,3 +13,6 @@ PID Implementation: A Python-based controller utilizing the pigpio library for h
 Signal Conditioning: Features a 3-point moving average filter to mitigate encoder quantization noise and anti-windup logic to prevent integrator saturation.  
 
 Performance: Achieved a settling time of 1.82 seconds with <1% overshoot and 0.0% steady-state error.
+
+###PCB Design
+![PCB Design](PCB_design.png)
