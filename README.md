@@ -14,5 +14,13 @@ Signal Conditioning: Features a 3-point moving average filter to mitigate encode
 
 Performance: Achieved a settling time of 1.82 seconds with <1% overshoot and 0.0% steady-state error.
 
-###PCB Design
+### EasyEDA Schematic
+![EasyEDA Schematic](easyeda_schematic.png)
+
+
+### PCB Design
 ![PCB Design](PCB_design.png)
+
+
+### Circuit
+![Circuit](design.png)
